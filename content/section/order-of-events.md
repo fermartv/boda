@@ -32,6 +32,6 @@ Para los más hambrientos, a lo largo de la noche se servirá la cena.
 
 Habrá autobuses de vuelta tanto a Avilés como a Oviedo para todos los que lo deseen (y se hayan apuntado).
 
-### ¿Sige la fiesta?
+### ¿Sigue la fiesta?
 
 Si nos quedamos con ganas, podemos seguir la fiesta en Avilés.
