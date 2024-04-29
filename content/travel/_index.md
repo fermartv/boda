@@ -1,55 +1,27 @@
 ---
 draft: false
-title: "Travel Advice"
+title: "Cómo llegar"
 ---
 
-<iframe class="google-map" style="border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5988.827892632287!2d-3.7497530637098593!3d50.72189916227002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486dac616bc30dc7%3A0x95241c452f2c9cec!2sEggbeer%20Farm!5e0!3m2!1sen!2suk!4v1659273800010!5m2!1sen!2suk" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+## Iglesia
 
-## Address
-
-Higher Eggbeer Farm, 
-Cheriton Bishop, 
-Exeter, 
-EX6 6JQ
-
-## By train
-
-Trains from London Paddington to Exeter St David’s are approx ~2hrs 15mins.
-
-You would then need to travel by taxi.
-
-## By taxi
-
-Taxi from Exeter Station to Higher Eggbeer is approx. a 15-20min cab ride.
-
-Please arrange cabs home for your group on Saturday night after the wedding.
-
-<br>
-
-**Taxi Companies:**
-
-Exeter Cars - 01392 555555 ([website](https://www.exetercars.com/))
-
-Apple Taxis Exeter - 01392 666 666 ([website](https://www.appletaxisexeter.co.uk/))
-
-Andrew Mills Taxi - 01392 253588
-
-## By car
-
-**Note: Parking is available on site and cars can be left on site overnight**
-
-Higher Eggbeer is a short drive from Exeter City Centre - approx. 15-20min drive.
-
-From Exeter, take the A30 & exit towards Cheriton Bishop / Crockernwell / Drewsteignton / Tedburn / St Mary.
-
-When you arrive in the village of Cheriton Bishop at the ‘The Old Thatch Inn’ pub on the left, take the next left turn (at the yellow house). This will lead you down a short country lane directly to Higher Eggbeer. There are signs pointing to the entrance.
-
- 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d722.8273426340604!2d-5.9249061!3d43.5584363!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd369b6182ec43b1%3A0x88a905b8db28ac5c!2sIglesia%20de%20Santo%20Tom%C3%A1s%20de%20Canterbury!5e0!3m2!1ses!2ses!4v1714421122940!5m2!1ses!2ses" width="700" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
+### Dirección
+
+Iglesia de Santo Tomás de Canterbury, 
+33401 Avilés, Asturias
 
 
+## Restaurante
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2890.4048397806337!2d-5.968436723853599!3d43.57728317110592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd369c15f1e8e429%3A0xd575d1dd5e2d5c33!2sRestaurante%20Real%20Balneario!5e0!3m2!1ses!2ses!4v1714421305166!5m2!1ses!2ses" width="700" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
+### Dirección
+
+Restaurante Real Balneario de Salinas
+Av. Juan Sitges, 3, 33405 Salinas, Asturias
 
 
