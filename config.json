@@ -1,0 +1,38 @@
+{
+  "baseURL": "http://example.org/",
+  "languageCode": "es-es",
+  "title": "Boda Marta y Fer",
+  "show_comments": false,
+  "disableKinds": [
+    "sitemap",
+    "RSS"
+  ],
+  "markup": {
+    "defaultMarkdownHandler": "goldmark",
+    "goldmark": {
+      "extensions": {
+        "definitionList": true,
+        "footnote": true,
+        "linkify": true,
+        "linkifyProtocol": "https",
+        "strikethrough": true,
+        "table": true,
+        "taskList": true,
+        "typographer": true
+      },
+      "parser": {
+        "attribute": {
+          "block": false,
+          "title": true
+        },
+        "autoHeadingID": true,
+        "autoHeadingIDType": "github"
+      },
+      "renderer": {
+        "hardWraps": false,
+        "unsafe": true,
+        "xhtml": false
+      }
+    }
+  }
+}
