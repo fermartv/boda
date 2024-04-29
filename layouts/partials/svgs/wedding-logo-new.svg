@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="150.785 -41.096 594.484 565.694" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+<svg class="header-svg" viewBox="150.785 -41.096 594.484 565.694" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
   <defs>
     <linearGradient id="_logo-1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(88.8022,0,0,59.214,483.792,255.644)">
       <stop offset="0" style="stop-color:rgb(142,151,117);stop-opacity:1"/>
