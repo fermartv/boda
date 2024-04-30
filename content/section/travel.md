@@ -3,24 +3,12 @@ draft: false
 title: "Cómo llegar"
 ---
 
-**Please take a look at our separate pages on <a href="/travel">travel</a> and <a href="/accommodation">accommodation</a> for advice.**
+**Si tienes dudas sobre cómo llegar, visita la sección <a href="/travel">Cómo llegar</a>.**
 
 <br>
 
-The take-home messages are:
+Puedes ir en coche, pero el aparcamiento es limitado tanto en la zona de la iglesia (hay zona azul) como en la del restaurante, por lo que recomendamos que vayas en taxi o en uno de los autobuses que pondremos.
 
 <br>
 
-Please pre-book a taxi for the evening if you are not travelling by car
-
-<br>
-
-There is a lot of parking space available at Eggbeer Farm and cars can be left here overnight.
-
-<br>
-
-Accommodation at Higher Eggbeer is available for hire, please contact Hugo and Sarah for more details
-
-<br>
-
-You could take a train down from London to Exeter on the morning of the wedding, and back home afterwards, if you wanted!
+Habrá autobús desde Oviedo y desde Avilés que te llevarán tanto a la ceremonia como al restaurante. Esta es la opción que nosotros recomendamos. Para asegurar que tienes plaza, confirma asistencia.

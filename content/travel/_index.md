@@ -3,25 +3,192 @@ draft: false
 title: "Cómo llegar"
 ---
 
-## A la iglesia
+Version en [français](#français)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d722.8273426340604!2d-5.9249061!3d43.5584363!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd369b6182ec43b1%3A0x88a905b8db28ac5c!2sIglesia%20de%20Santo%20Tom%C3%A1s%20de%20Canterbury!5e0!3m2!1ses!2ses!4v1714421122940!5m2!1ses!2ses" width="700" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+# El día de la boda
 
+### Iglesia de Santo Tomás de Canterbury
 
-### Dirección
+Iglesia de Santo Tomás de Canterbury
 
-Iglesia de Santo Tomás de Canterbury, 
 33401 Avilés, Asturias
 
+[Ver en Google Maps](https://maps.app.goo.gl/WwUPTQDDjp5mAaxB9)
 
-## Al restaurante
+<br>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2890.4048397806337!2d-5.968436723853599!3d43.57728317110592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd369c15f1e8e429%3A0xd575d1dd5e2d5c33!2sRestaurante%20Real%20Balneario!5e0!3m2!1ses!2ses!4v1714421305166!5m2!1ses!2ses" width="700" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-### Dirección
+### Restaurante Real Balneario de Salinas
 
 Restaurante Real Balneario de Salinas
+
 Av. Juan Sitges, 3, 33405 Salinas, Asturias
 
+[Ver en Google Maps](https://maps.app.goo.gl/jsiKDDf9o5k5hzwa8)
 
+<br>
+
+### En taxi
+
+**Radio Taxi Avilés**: <a href="tel:0034985562222">985 56 22 22</a>
+
+**Tele Taxi Avilés**: <a href="tel:0034985570000">985 57 00 00</a>
+
+El precio de Avilés a Salinas es de unos 10€ a 13€, dependiendo de la hora.
+
+<br>
+
+### En autobús
+
+Pondremos un autobús desde Oviedo y otro desde Avilés que te llevarán hasta la iglesia y el restaurante. Así te despreocupas y vas más tranquila.
+
+<br>
+
+Confirma asistencia para reservar plaza en el autobús.
+        <section class="button-container">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScq2pP8ATJLhpKHwHeiGDF7o2PFuoBEDatHrdL6Gm-oMKghQQ/viewform" target="_blank" class="button">Confirmar asistencia</a>
+        </section>
+
+<br>
+
+<br>
+
+# Cómo llegar a Avilés
+
+## En avión
+
+El Aeropuerto de Asturias (OVD) está muy cerca de Avilés. Tiene vuelos directos desde:
+- París (Orly): [Vueling](https://www.vueling.com/)
+- Bruselas (CRL): [Ryanair](https://www.ryanair.com)
+- Barcelona: [Vueling](https://www.vueling.com/) y [Volotea](https://www.volotea.com)
+- Madrid: [Iberia](https://www.iberia.com/es/) y [Air Nostrum](http://www.airnostrum.es/)
+- Valencia: [Volotea](https://www.volotea.com)
+
+<br>
+
+### Desde el aeropuerto
+
+#### En autobús
+
+Hay un autobús cada hora desde el aeropuerto a Avilés. El trayecto tiene una duración de 20 minutos y un coste de 4,50€. El billete se puede comprar en el autobús u online.
+
+<br>
+
+Los autobuses salen del aeropuerto a todas las horas en punto y de Avilés a las y veinticinco. Puedes consultar los horarios y comprar el billete desde la web de [Alsa](https://www.alsa.es/aeropuertos/asturias).
+
+<br>
+
+#### En taxi
+
+Radio Taxi Avilés: <a href="tel:0034985562222">985 56 22 22</a>
+
+Tele Taxi Avilés: <a href="tel:0034985570000">985 57 00 00</a>
+
+El precio del aeropuerto a Avilés es de unos 25€.
+
+
+## En tren
+
+Es la opción más cómoda y ecofriendly. Hay AVE hasta Oviedo y desde ahí, con el mismo billete, se puede coger un Cercanías hasta Avilés. Por el momento, la única compañía que opera esta línea es [Renfe](https://www.renfe.com)
+
+## En autobús
+
+Es la opción más económica. Hay autobuses directos a Avilés o a Oviedo desde muchos destinos. Los billetes se pueden comprar desde la web de [ALSA](https://www.alsa.es/).
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+# Le jour du mariage - maintenant en français {#français}
+
+### Église de Santo Tomás de Canterbury
+
+Église de de Santo Tomás de Canterbury
+
+33401 Avilés, Asturies
+
+[Voir sur Google Maps](https://maps.app.goo.gl/WwUPTQDDjp5mAaxB9)
+
+<br>
+
+### Restaurant Real Balneario de Salinas
+
+Restaurant Real Balneario de Salinas
+
+Av. Juan Sitges, 3, 33405 Salinas, Asturies
+
+[Voir sur Google Maps](https://maps.app.goo.gl/jsiKDDf9o5k5hzwa8)
+
+<br>
+
+### En taxi
+
+**Radio Taxi Avilés**: <a href="tel:0034985562222">+34 985 56 22 22</a>
+
+**Tele Taxi Avilés**: <a href="tel:0034985570000">+34 985 57 00 00</a>
+
+Le prix d'Avilés à Salinas est d'environ 10€ à 13€, selon l'heure.
+
+<br>
+
+### En autobus
+
+Nous mettrons en place un bus depuis Oviedo et un autre depuis Avilés qui vous emmèneront à l'église et au restaurant. Ainsi, vous n'avez pas à vous soucier et pouvez vous détendre davantage.
+
+<br>
+
+Confirmez votre présence pour réserver une place dans le bus.
+        <section class="button-container">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScq2pP8ATJLhpKHwHeiGDF7o2PFuoBEDatHrdL6Gm-oMKghQQ/viewform" target="_blank" class="button">Confirmer la présence</a>
+        </section>
+
+<br>
+
+<br>
+
+# Comment arriver à Avilés
+
+## En avion
+
+L'aéroport des Asturies (OVD) est très proche d'Avilés. Il propose des vols directs depuis :
+- Paris (Orly) : [Vueling](https://www.vueling.com/)
+- Bruxelles (CRL) : [Ryanair](https://www.ryanair.com)
+- Barcelone : [Vueling](https://www.vueling.com/) et [Volotea](https://www.volotea.com)
+- Madrid : [Iberia](https://www.iberia.com/es/) et [Air Nostrum](http://www.airnostrum.es/)
+- Valence : [Volotea](https://www.volotea.com)
+
+<br>
+
+### Depuis l'aéroport
+
+#### En autobus
+
+Il y a un bus toutes les heures depuis l'aéroport jusqu'à Avilés. Le trajet dure 20 minutes et coûte 4,50€. Le billet peut être acheté dans le bus ou en ligne.
+
+<br>
+
+Les bus partent de l'aéroport toutes les heures pile et d'Avilés à vingt-cinq. Vous pouvez consulter les horaires et acheter le billet sur le site web de [Alsa](https://www.alsa.es/aeropuertos/asturias).
+
+<br>
+
+#### En taxi
+
+Radio Taxi Avilés : <a href="tel:0034985562222">+34 985 56 22 22</a>
+
+Tele Taxi Avilés : <a href="tel:0034985570000">+34 985 57 00 00</a>
+
+Le prix de l'aéroport à Avilés est d'environ 25€.
+
+
+## En train
+
+C'est l'option la plus confortable et écologique. Il y a des trains à grande vitesse jusqu'à Oviedo et de là, avec le même billet, vous pouvez prendre un train de banlieue jusqu'à Avilés. Pour le moment, la seule compagnie qui exploite cette ligne est [Renfe](https://www.renfe.com).
+
+## En autobus
+
+C'est l'option la plus économique. Il y a des bus directs vers Avilés ou Oviedo depuis de nombreuses destinations. Les billets peuvent être achetés sur le site web de [ALSA](https://www.alsa.es/).

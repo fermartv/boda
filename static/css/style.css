@@ -451,6 +451,12 @@ html {
   }
 }
 
+@media only screen and (max-width: 800px) {
+  .section__md-content p {
+    padding-left: 1rem;
+  }
+}
+
 .section__md-content h2 {
   margin-top: 1rem;
 
@@ -462,7 +468,7 @@ html {
 .section__md-content h3 {
   margin-top: 1rem;
 
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: inherit;
 }
 
@@ -505,11 +511,12 @@ html {
 /* BOTÓN */
 .button {
   display: inline-block;
+  margin-top: 20px;
   padding: 10px 20px;
   font-size: 1rem;
   font-weight: bold;
   text-transform: uppercase;
-  border: 2px solid var(--cream);
+  border: 1px solid var(--dark-green);
   background-color: var(--dark-green);
   color: var(--cream);
   cursor: pointer;
@@ -520,4 +527,10 @@ html {
 .button:hover {
   background-color: var(--cream);
   color: var(--dark-green);
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

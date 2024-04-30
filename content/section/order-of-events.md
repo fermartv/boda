@@ -12,8 +12,6 @@ title: "Plan del finde"
 
 El autobús para en **TBD** para recoger a todos los invitados.
 
-Si quieres ir en autobús, reserva tu plaza [aquí](/#rsvp).
-
 ### 13:30 - Ceremonia
 
 Breve ceremonia en **Iglesia de Santo Tomás de Canterbury**.
@@ -21,8 +19,6 @@ Breve ceremonia en **Iglesia de Santo Tomás de Canterbury**.
 ### TBD - Autobús hasta el restaurante
 
 El autobús recogerá a todos los invitados que lo deseen en la puerta de la iglesia.
-
-Si quieres ir en autobús, reserva tu plaza [aquí](/#rsvp).
 
 ### Cóctel, comida y ... The Party
 
@@ -33,8 +29,6 @@ Para los más hambrientos, a lo largo de la noche se servirá la cena.
 ### TBD - Autobús de vuelta
 
 Habrá autobuses de vuelta tanto a Avilés como a Oviedo para todos los que lo deseen.
-
-Si quieres ir en autobús, reserva tu plaza [aquí](/#rsvp).
 
 ### ¿Sigue la fiesta?
 
