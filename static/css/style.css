@@ -72,6 +72,8 @@ html {
   min-height: 200px;
   margin-top: 20px;
   padding-bottom: 5vh;
+  padding-left: 10px;
+  padding-right: 10px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -85,7 +87,7 @@ html {
 }
 
 .header-svg {
-  width: auto;
+  width: 100%;
   height: auto;
 }
 
