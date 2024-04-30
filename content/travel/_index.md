@@ -73,7 +73,7 @@ Hay un autobús cada hora desde el aeropuerto a Avilés. El trayecto tiene una d
 
 <br>
 
-Los autobuses salen del aeropuerto a todas las horas en punto y de Avilés a las y veinticinco. Puedes consultar los horarios y comprar el billete desde la web de [Alsa](https://www.alsa.es/aeropuertos/asturias).
+Los autobuses salen del aeropuerto a todas las horas en punto y de Avilés a las y veinticinco. Puedes consultar los horarios y comprar el billete desde la web de [ALSA](https://www.alsa.es/aeropuertos/asturias).
 
 <br>
 
