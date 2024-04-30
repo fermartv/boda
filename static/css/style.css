@@ -440,6 +440,10 @@ html {
   text-align: left;
 }
 
+.section__md-content a {
+  color: inherit;
+}
+
 @media only screen and (min-width: 800px) {
   .section__md-content p {
     padding-left: 4rem;
@@ -496,4 +500,24 @@ html {
   display: inline-block;
   vertical-align: middle;
   fill: var(--dusty-pink); /* Utiliza el color de root */
+}
+
+/* BOTÓN */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: 2px solid var(--cream);
+  background-color: var(--dark-green);
+  color: var(--cream);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: var(--cream);
+  color: var(--dark-green);
 }
