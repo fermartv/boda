@@ -11,7 +11,7 @@ Hay que realizar la reserva desde su [web](https://www.ocahotels.com/hoteles/hot
 
 <br>
 
-El hotel está a solo **6 minutos caminando** hasta la Iglesia. Tiene una nota de 8,1 en [Booking](https://www.booking.com/hotel/es/villadeaviles.es.html).
+El hotel está a solo **6 minutos caminando** de la Iglesia. Tiene una nota de 8,1 en [Booking](https://www.booking.com/hotel/es/villadeaviles.es.html).
 
 ## Hotel la Serrana
 
@@ -19,7 +19,7 @@ El hotel nos indica que el precio rondará entre 60 y 70€, pero todavía no no
 
 <br>
 
-El hotel está a solo **7 minutos caminando** hasta la Iglesia. Tiene una nota de 8,2 en [Booking](https://www.booking.com/hotel/es/luzana.es.html).
+El hotel está a solo **7 minutos caminando** de la Iglesia. Tiene una nota de 8,2 en [Booking](https://www.booking.com/hotel/es/luzana.es.html).
 
 ## Hotel Don Pedro
 
@@ -27,12 +27,12 @@ Nos hemos puesto en contacto con el hotel, pero todavía no nos han dado un prec
 
 <br>
 
-El hotel está a solo **7 minutos caminando** hasta la Iglesia. Tiene una nota de 8,6 en [Booking](https://www.booking.com/hotel/es/don-pedro.es.html).
+El hotel está a solo **7 minutos caminando** de la Iglesia. Tiene una nota de 8,6 en [Booking](https://www.booking.com/hotel/es/don-pedro.es.html).
 
 ## Hotel Palacio de Avilés
 
-Si te apetece algo un poco más lujoso, este antiguo palacio se encuentra en misma plaza del ayuntamiento de Avilés. El precio de la noche ronda los 180€. Nos hemos puesto en contacto con el hotel, pero todavía no nos han dado un precio.
+Si te apetece algo un poco más lujoso, este antiguo palacio se encuentra en la misma plaza del Ayuntamiento de Avilés. El precio por noche ronda los 180€. Nos hemos puesto en contacto con el hotel, pero todavía no nos han dado un precio.
 
 <br>
 
-El hotel está a solo **7 minutos caminando** hasta la Iglesia. Tiene una nota de 8,8 en [Booking](https://www.booking.com/hotel/es/palacio-de-aviles-by-melia.es.html?aid=390156&label=duc511jc-1DCAsoRkIacGFsYWNpby1kZS1hdmlsZXMtYnktbWVsaWFIM1gDaEaIAQGYAQq4AQfIAQ_YAQPoAQGIAgGoAgO4ApXyyLEGwAIB0gIkZjI4NzRjZWItMmQwOC00NTVlLTk0ZjMtMTI0YzEyZTE4OGQz2AIE4AIB&sid=d5bfd3db480e5ffe765213ec4646934d&dist=0&group_adults=2&group_children=0&keep_landing=1&no_rooms=1&sb_price_type=total&type=total&).
+El hotel está a solo **7 minutos caminando** de la Iglesia. Tiene una nota de 8,8 en [Booking](https://www.booking.com/hotel/es/palacio-de-aviles-by-melia.es.html?aid=390156&label=duc511jc-1DCAsoRkIacGFsYWNpby1kZS1hdmlsZXMtYnktbWVsaWFIM1gDaEaIAQGYAQq4AQfIAQ_YAQPoAQGIAgGoAgO4ApXyyLEGwAIB0gIkZjI4NzRjZWItMmQwOC00NTVlLTk0ZjMtMTI0YzEyZTE4OGQz2AIE4AIB&sid=d5bfd3db480e5ffe765213ec4646934d&dist=0&group_adults=2&group_children=0&keep_landing=1&no_rooms=1&sb_price_type=total&type=total&).
