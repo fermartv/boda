@@ -21,7 +21,7 @@ Avilés es nuestra ciudad natal. Tenía fama de ciudad industrial y peligrosa, p
 - **Centro Niemeyer**: es un centro de exposiciones diseñado por el arquitecto brasileño Oscar Niemeyer (quizá lo recuerden por diseñar Brasilia y la sede de la ONU).
 - **Lima y Limón**: pareja de cobayas, una blanca (Lima) y otra gris (Limón) que viven en casa de Marta.
 - **Soportales de Avilés**: el casco antiguo de Avilés está formado por muchas casas con soportales, de tal manera que puedes moverte por toda la zona incluso sin paraguas. Se puede ver en las calles Galiana o la Ferrería.
-- **Salinas**: es el pueblo y la playa donde haremos el convite. Tiene el museo de las anlcas a un lado y un paseo bonito.
+- **Salinas**: es el pueblo y la playa donde haremos el convite. Tiene el museo de las anclas a un lado y un paseo bonito.
 - **Ría de Avilés**: si tu objetivo en la vida es hacerte con todos, aquí se cazan buenos Dragonites. Tiene una escultura en la que un tal Carlos hizo cosas.
 
 <br>
@@ -37,7 +37,7 @@ Ciudad conocida por dos cosas: ahí estudiamos nosotros y es la sede de la [Tabe
 - **Visitar la catedral**: tiene una única torre. Se puede visitar la cámara santa, donde se guarda la cruz de la victoria y otras reliquias (wololooo!). Si te gusta caminar, desde aquí empieza el camino primitivo, uno de los sabores del camino de Santiago.
 - **Subir al Naranco**: puedes subir al Naranco para tener una vista panorámica de Oviedo y, ya que estás allí, visitar las iglesias prerrománicas de San Miguel de Lillo y Santa María del Naranco. También puedes ver el Cristo, es como el de Rio de Janeiro, pero con vistas al Calatrava, un elefante blanco obra del genio y figura Santiago Calatrava.
 - **San Julián de los Prados**: si le has cogido gusto al prerrománico, Oviedo tiene otra más. Ten cuidado por la zona que está llena de informáticos.
-- **Visitar el parque San Francsico**: parque situado en pleno centro de la ciudad, con pavos reales, una escultura de Mafalda y un jardín que te indica el día en el que estás hecho con flores.
+- **Visitar el parque San Francisco**: parque situado en pleno centro de la ciudad, con pavos reales, una escultura de Mafalda y un jardín que te indica el día en el que estás hecho con flores.
 - **Plaza y mercado del Fontán**: una plaza muy bonita en la que te puedes tomar algo. 
 - **Gascona**: si te gusta la sidra y comer mucho y bien, en Gascona encontrarás un pequeño paraíso.
 
@@ -50,7 +50,7 @@ Ciudad conocida por dos cosas: ahí estudiamos nosotros y es la sede de la [Tabe
 ### Gijón
 Tiene una forma rara y es muy difícil orientarse.
 - **La laboral**: Es el edificio más grande de España y uno de los más bonitos. Totalmente recomendada la visita.
-- **Cimadevilla**: Antiguo barrio de pescadores y lleno de sidrerias.
+- **Cimadevilla**: Antiguo barrio de pescadores y lleno de sidrerías.
 - **Playa de San Lorenzo**: Es la playa más grande de Gijón. Tiene un paseo bonito.
 
 <br>
@@ -61,7 +61,7 @@ Tiene una forma rara y es muy difícil orientarse.
 
 ### Cabo Peñas, Candás y Luanco
 
-El cabo Peñas es el punto más al norte de Asturias. Habitat naturl del Cormorán Moñudo (ave favorita de Marta). Está muy cerca de Avilés. Candás y Luanco son dos pueblos pesqueros con encanto. En Candás es típico comer sardinas.
+El cabo Peñas es el punto más al norte de Asturias. Habitat natural del Cormorán Moñudo (ave favorita de Marta). Está muy cerca de Avilés. Candás y Luanco son dos pueblos pesqueros con encanto. En Candás es típico comer sardinas.
 
 <br>
 
@@ -75,7 +75,7 @@ No confundir con Oriente Medio, que está en Asia. El oriente es la zona más vi
 
 ### Llanes y Póo
 
-Llanes es un pueblito de la costa de Asturias, puedes visitar su casco histórico, ver el puerto y los famosos Cubos de la Memoria del pintor vasco Agustín Ibarrola. Además también puedes darte un paseo por el Paseo de San Pedro junto a la costa. Si el tiempo, y los madrileños, te lo permiten, puedes darte un baño en alguna de sus playas.
+Llanes es un pueblito de la costa de Asturias, puedes visitar su casco histórico, ver el puerto y los famosos Cubos de la Memoria del pintor vasco Agustín Ibarrola. Además, también puedes darte un paseo por el Paseo de San Pedro junto a la costa. Si el tiempo, y los madrileños, te lo permiten, puedes darte un baño en alguna de sus playas.
 
 <br>
 
@@ -97,13 +97,13 @@ Además del descenso del Sella, en Arriondas hay muchas opciones de aventura, ru
 
 <br>
 
-### Covadonga, Los Lagos, Picos de Europa, Cangas de Onis
+### Covadonga, Los Lagos, Picos de Europa, Cangas de Onís
 
 La joya de la corona de Asturias. Si buscas pareja, tienes un coche nuevo o planeas iniciar una reconquista, ve a Covadonga a que la santina te dé su bendición.
 
 <br>
 
-Desde allí podrás subir a los Lagos de Covadonga, ¡pero ten cuidado con el tiempo! Es una zona de alta montaña, así que puede nevar, hacer sol o todo lo contrario.
+Desde allí podrás subir a los Lagos de Covadonga, ¡pero ten cuidado con el tiempo! Es una zona de alta montaña, así que puede nevar, hacer sol o, todo lo contrario.
 
 <br>
 
@@ -117,7 +117,7 @@ Colunga es un pueblo famoso por sus casas de indianos, que son casas de estilo c
 
 <br>
 
-Lastres es un pueblito de costa y cuesta. Es como Cudillero, pero más lejos. Vive de las rentas porque allí se grabó la serie de Doctor Mateo ,¿alguien la recuerda?.
+Lastres es un pueblito de costa y cuesta. Es como Cudillero, pero más lejos. Vive de las rentas porque allí se grabó la serie de Doctor Mateo, ¿alguien la recuerda?.
 
 <br>
 
@@ -125,7 +125,7 @@ Cerca de Lastres está el MUJA (Museo del Jurásico de Asturias) en el que hay u
 
 <br>
 
-### Bufones de pría y Gulpiyuri
+### Bufones de Pría y Gulpiyuri
 
 Si hace mal tiempo, puedes acercarte a los Bufones de Pría, una especie de "géiseres" asturianos, pero que solo funcionan cuando hay mala mar.
 
@@ -156,4 +156,4 @@ Pueblo famoso por sus cuchillos y navajas. Aquí puedes ver cómo vivíamos en A
 
 ### Somiedo y senda del oso
 
-Zona de montaña muy bonita, con muchas rutas. Una de ellas (no está en somiedo, pero esta cerca) es la senda del oso, que es muy fácil de hacer (se pueden alquilar bicis). Si tienes suerte igual ves osos.
+Zona de montaña muy bonita, con muchas rutas. Una de ellas (no está en Somiedo, pero está cerca) es la senda del oso, que es muy fácil de hacer (se pueden alquilar bicis). Si tienes suerte igual ves osos.
