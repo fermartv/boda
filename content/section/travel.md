@@ -13,7 +13,7 @@ Nosotros os **recomendamos que aprovechéis el servicio de autobuses**. Si está
 
 <br>
 
-Puedes llegar en coche, aunque el estacionamiento es limitado tanto en la zona de la Iglesia (hay zona azul) como en la del restaurante. También puedes utilizar un taxi o uno de los autobuses que hemos organizado. Consulta todas las opciones [aquí](/travel-wedding).
+Otra opción es ir en coche, aunque el estacionamiento es limitado tanto en la zona de la Iglesia (hay zona azul), como en la del restaurante. También puedes ir en taxi, bici o monopatín. Consulta todas las opciones [aquí](/travel-wedding).
 
 <br>
 
