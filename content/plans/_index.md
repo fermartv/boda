@@ -101,7 +101,7 @@ Si buscas algo de aventura, pero no demasiada, Arriondas es tu lugar. Es un pueb
 
 <br>
 
-Además del descenso del Sella, en Arriondas hay muchas opciones de aventura, rutas y alquiler de todo tipo de artilugios para que te rompas algún hueso.
+Además del descenso del Sella, en Arriondas hay muchas opciones de aventura: rutas y alquiler de todo tipo de artilugios para que te rompas algún hueso.
 
 <br>
 
