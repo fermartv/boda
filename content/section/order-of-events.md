@@ -3,13 +3,13 @@ draft: false
 title: "Plan del finde"
 ---
 
-## Preboda
+<!-- ## Preboda
 
 <br>
 
 Hora y lugar pendiente de confirmar.
 
-<br>
+<br> -->
 
 ## El día de la boda
 
