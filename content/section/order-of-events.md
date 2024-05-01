@@ -23,7 +23,7 @@ Breve ceremonia en **Iglesia de Santo Tomás de Canterbury**.
 
 ### Autobús hasta el restaurante
 
-El autobús recogerá a todos los invitados que lo deseen en la puerta de la iglesia.
+El autobús recogerá a todos los invitados que lo deseen en la puerta de la Iglesia.
 
 ### Cóctel, comida y ... The Party
 

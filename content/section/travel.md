@@ -13,7 +13,7 @@ Nosotros os **recomendamos vayáis en alguno de los autobuses** que pondremos de
 
 <br>
 
-Puedes llegar en coche, aunque el estacionamiento es limitado tanto en la zona de la iglesia (hay zona azul) como en la del restaurante. Recomendamos utilizar un taxi o uno de los autobuses que hemos organizado. Consulta todas las opciones [aquí](/travel).
+Puedes llegar en coche, aunque el estacionamiento es limitado tanto en la zona de la Iglesia (hay zona azul) como en la del restaurante. Recomendamos utilizar un taxi o uno de los autobuses que hemos organizado. Consulta todas las opciones [aquí](/travel).
 
 
 
