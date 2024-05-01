@@ -3,9 +3,9 @@ draft: false
 title: "Guía de viaje"
 ---
 
-### Cómo llegar
+### Cómo llegar el día de la boda
 
-Nosotros os **recomendamos vayáis en alguno de los autobuses** que pondremos desde Oviedo y Avilés, y que te llevarán tanto a la ceremonia como al restaurante. Para asegurarte de tener plaza, por favor confirma tu asistencia a continuación.
+Nosotros os **recomendamos que aprovechéis el servicio de autobuses**. Si estás en Oviedo, te acercaremos a Avilés para la ceremonia. Tras esta, también se facilitará transporte al restaurante para todos los invitados que lo soliciten. Para asegurarte de tener plaza, por favor confirma tu asistencia.
 
 <section class="button-container">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScq2pP8ATJLhpKHwHeiGDF7o2PFuoBEDatHrdL6Gm-oMKghQQ/viewform" target="_blank" class="button">Confirmar asistencia</a>
@@ -13,8 +13,11 @@ Nosotros os **recomendamos vayáis en alguno de los autobuses** que pondremos de
 
 <br>
 
-Puedes llegar en coche, aunque el estacionamiento es limitado tanto en la zona de la Iglesia (hay zona azul) como en la del restaurante. Recomendamos utilizar un taxi o uno de los autobuses que hemos organizado. Consulta todas las opciones [aquí](/travel).
+Puedes llegar en coche, aunque el estacionamiento es limitado tanto en la zona de la Iglesia (hay zona azul) como en la del restaurante. También puedes utilizar un taxi o uno de los autobuses que hemos organizado. Consulta todas las opciones [aquí](/travel-wedding).
 
+<br>
+
+### Cómo llegar a Avilés
 
 
 
