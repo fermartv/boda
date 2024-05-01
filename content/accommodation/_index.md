@@ -7,7 +7,7 @@ Aquí os facilitamos un listado de hoteles que pueden ser de vuestro interés. H
 
 ## Hotel OCA Villa de Avilés
 
-Hay que realizar la reserva desde su [web](https://www.ocahotels.com/hoteles/hotel-oca-villa-de-aviles/entorno). Con el código promocional **XXXXXX** os harán un 15% de descuento en la reserva. Este descuento estará disponible hasta un mes antes del día de la boda. El precio sin el descuento es de unos 70€ por noche.
+Hay que realizar la reserva desde su [web](https://www.ocahotels.com/hoteles/hotel-oca-villa-de-aviles/entorno). Con el código promocional **Pendiente de confirmar** os harán un 15% de descuento en la reserva. Este descuento estará disponible hasta un mes antes del día de la boda. El precio sin el descuento es de unos 70€ por noche.
 
 <br>
 
