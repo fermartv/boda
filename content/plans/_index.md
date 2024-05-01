@@ -139,7 +139,7 @@ Si hace mal tiempo, puedes acercarte a los Bufones de Pría, una especie de "gé
 
 <br>
 
-Si ser decepcionado es tu pasión, te recomiendo que visites la famosa playa interior (a 100 metros de la costa) de Gulpiyuri. Según muchas revistas e influencers es una de las playas más bonitas de España. Spoiler: no merece la pena. Es curiosa, pero las fotos de internet tienen demasiados filtros.
+Si ser decepcionado es tu pasión, te recomiendo que visites la famosa playa interior de Gulpiyuri (a 100 metros de la costa) . Según muchas revistas e influencers es una de las playas más bonitas de España. Spoiler: no merece la pena. Es curiosa, pero las fotos de internet tienen demasiados filtros.
 
 <br>
 
