@@ -18,6 +18,9 @@ Aquí es donde vive la gente. Las tres ciudades principales son Oviedo, Gijón y
 
 ### Avilés
 Avilés es nuestra ciudad natal. Tenía fama de ciudad industrial y peligrosa, pero todo eso ha cambiado desde que nos fuimos a Madrid. El turismo en Avilés ha crecido muchísimo y estos son los principales atractivos:
+
+<br>
+
 - **Centro Niemeyer**: es un centro de exposiciones diseñado por el arquitecto brasileño Oscar Niemeyer (quizá lo recuerden por diseñar Brasilia y la sede de la ONU).
 - **Ría de Avilés**: si tu objetivo en la vida es hacerte con todos, aquí se cazan buenos Dragonites. También tiene una escultura en la que un tal Carlos hizo cosas.
 - **Lima y Limón**: pareja de cobayas, una blanca (Lima) y otra gris (Limón) que viven en casa de Marta. Para organizar una visita guiada, por favor, contacten con la madre de la novia.
@@ -26,7 +29,7 @@ Avilés es nuestra ciudad natal. Tenía fama de ciudad industrial y peligrosa, p
 
 <br>
 
-**Dónde comer**: Casa Tataguyo, Casa Lin, A Feira, Ronda 14, Quintana Manuela (hay que ir en coche).
+**Dónde comer**: Casa Tataguyo, Casa Lin, A Feira, Ronda 14, Quintana Manuela (hay que ir en coche). El plato típico de Avilés es la longaniza con patatas.
 
 <br>
 
@@ -34,10 +37,12 @@ Avilés es nuestra ciudad natal. Tenía fama de ciudad industrial y peligrosa, p
 
 Ciudad conocida por dos cosas: ahí estudiamos nosotros y es la sede de la [Taberna Tramunte](https://maps.app.goo.gl/1Zvs7UQfdfLBU8pp8). Si después de eso te quedas con ganas de más, puedes hacer alguna de estas cosas:
 
-- **Visitar la catedral**: tiene una única torre. Se puede visitar la cámara santa, donde se guarda la cruz de la victoria y otras reliquias (wololooo!). Si te gusta caminar, desde aquí empieza el camino primitivo, uno de los sabores del camino de Santiago.
+<br>
+
+- **Visitar la catedral**: tiene una única torre. Se puede visitar la Cámara Santa, donde se guarda la Cruz de la Victoria y otras reliquias (wololooo!). Si te gusta caminar, desde aquí empieza el camino primitivo, uno de los sabores del camino de Santiago.
 - **Subir al Naranco**: puedes subir al Naranco para tener una vista panorámica de Oviedo y, ya que estás allí, visitar las iglesias prerrománicas de San Miguel de Lillo y Santa María del Naranco. También puedes ver el Cristo, es como el de Rio de Janeiro, pero con vistas al Calatrava, un elefante blanco obra del genio y figura Santiago Calatrava.
 - **San Julián de los Prados**: si le has cogido gusto al prerrománico, Oviedo tiene otra más. Ten cuidado por la zona que está llena de informáticos.
-- **Visitar el parque San Francisco**: parque situado en pleno centro de la ciudad, con pavos reales, una escultura de Mafalda y un jardín que te indica el día en el que estás hecho con flores.
+- **Visitar el parque San Francisco**: parque situado en pleno centro de la ciudad, con pavos reales, una escultura de Mafalda y un jardín que te indica el día en el que estás.
 - **Plaza y mercado del Fontán**: una plaza muy bonita en la que te puedes tomar algo. 
 - **Gascona**: si te gusta la sidra y comer mucho y bien, en Gascona encontrarás un pequeño paraíso.
 
@@ -49,6 +54,9 @@ Ciudad conocida por dos cosas: ahí estudiamos nosotros y es la sede de la [Tabe
 
 ### Gijón
 Tiene una forma rara y es muy difícil orientarse.
+
+<br>
+
 - **La laboral**: Es el edificio más grande de España y uno de los más bonitos. Totalmente recomendada la visita.
 - **Cimadevilla**: Antiguo barrio de pescadores y lleno de sidrerías.
 - **Playa de San Lorenzo**: Es la playa más grande de Gijón. Tiene un paseo bonito.
@@ -61,7 +69,7 @@ Tiene una forma rara y es muy difícil orientarse.
 
 ### Cabo Peñas, Candás y Luanco
 
-El cabo Peñas es el punto más al norte de Asturias. Habitat natural del Cormorán Moñudo (ave favorita de Marta). Está muy cerca de Avilés. Candás y Luanco son dos pueblos pesqueros con encanto. En Candás es típico comer sardinas.
+El cabo Peñas es el punto más al norte de Asturias. Habitat natural del Cormorán Moñudo (ave favorita de Marta). Está muy cerca de Avilés. Candás y Luanco son dos pueblos pesqueros con encanto. En Candás es típico comer sardinas y en Luanco marañuelas.
 
 <br>
 
@@ -75,7 +83,7 @@ No confundir con Oriente Medio, que está en Asia. El oriente es la zona más vi
 
 ### Llanes y Póo
 
-Llanes es un pueblito de la costa de Asturias, puedes visitar su casco histórico, ver el puerto y los famosos Cubos de la Memoria del pintor vasco Agustín Ibarrola. Además, también puedes darte un paseo por el Paseo de San Pedro junto a la costa. Si el tiempo, y los madrileños, te lo permiten, puedes darte un baño en alguna de sus playas.
+Llanes es un pueblito de la costa de Asturias. Puedes visitar su casco histórico, ver el puerto y los famosos Cubos de la Memoria del pintor vasco Agustín Ibarrola. Además, también puedes darte un paseo por el Paseo de San Pedro junto a la costa. Si el tiempo, y los madrileños, te lo permiten, puedes darte un baño en alguna de sus playas.
 
 <br>
 
@@ -138,7 +146,7 @@ Si ser decepcionado es tu pasión, te recomiendo que visites la famosa playa int
 
 # Occidente {#occidente}
 
-No confundir con Oriente Medio, que está en Asia. El oriente es la zona más visitada de Asturias (se llena de madrileños en verano). Tiene un poco de todo, pero estas son nuestras recomendaciones:
+Es la zona más rural y salvaje de Asturias. Hay más vacas que habitantes. Estos sitios forman nuestro top 3 que no te puedes perder:
 
 <br>
 
