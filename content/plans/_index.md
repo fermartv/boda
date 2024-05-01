@@ -129,7 +129,7 @@ Lastres es un pueblito de costa y cuesta. Es como Cudillero, pero más lejos. Vi
 
 <br>
 
-Cerca de Lastres está el MUJA (Museo del Jurásico de Asturias) en el que hay una exposición bastante chula de huesos de dinosaurios. También cerca está la playa de la Griega, dónde puedes ver huellas de dinosaurios en la vida real. Según Marta allí se rodó la escena de Reptar de los Rugrats (dato pendiente de confirmar).
+Cerca de Lastres está el MUJA (Museo del Jurásico de Asturias) en el que hay una exposición bastante chula de huesos de dinosaurios. También cerca está la playa de la Griega, dónde puedes ver huellas de dinosaurios en la vida real. Según Marta, allí se rodó la escena de Reptar de los Rugrats (dato pendiente de confirmar).
 
 <br>
 
