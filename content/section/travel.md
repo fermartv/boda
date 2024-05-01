@@ -19,7 +19,7 @@ Puedes llegar en coche, aunque el estacionamiento es limitado tanto en la zona d
 
 ### Cómo llegar a Avilés
 
-
+Aquí te facilitamos algunas ideas de cómo llegar a Asturias, esperamos que te sean de ayuda. Haz click [aquí](/travel).
 
 <br>
 
