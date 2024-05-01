@@ -3,10 +3,6 @@ draft: false
 title: "Guía de viaje"
 ---
 
-**Si tienes dudas sobre cómo llegar, visita la sección <a href="/travel">Cómo llegar</a>.**
-
-<br>
-
 ### Cómo llegar
 
 Nosotros os **recomendamos vayáis en alguno de los autobuses** que pondremos desde Oviedo y Avilés, y que te llevarán tanto a la ceremonia como al restaurante. Para asegurarte de tener plaza, por favor confirma tu asistencia a continuación.
