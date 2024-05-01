@@ -20,7 +20,7 @@ Aquí es donde vive la gente. Las tres ciudades principales son Oviedo, Gijón y
 Avilés es nuestra ciudad natal. Tenía fama de ciudad industrial y peligrosa, pero todo eso ha cambiado desde que nos fuimos a Madrid. El turismo en Avilés ha crecido muchísimo y estos son los principales atractivos:
 - **Centro Niemeyer**: es un centro de exposiciones diseñado por el arquitecto brasileño Oscar Niemeyer (quizá lo recuerden por diseñar Brasilia y la sede de la ONU).
 - **Lima y Limón**: pareja de cobayas, una blanca (Lima) y otra gris (Limón) que viven en casa de Marta. Para organizar una visita guiada, por favor, contacten con la madre de la novia.
-- **Soportales de Avilés**: el casco antiguo de Avilés está formado por muchas casas con soportales, de tal manera que puedes moverte por toda la zona incluso sin paraguas. Se puede ver en las calles Galiana o la Ferrería.
+- **Soportales de Avilés**: Avilés es la ciudad con más soportales de Europa (muchos más que cualquier ciudad Italiana). En el casco antiguo podrás disfrutar viendo varios ejemplos, como las calles de Galiana y la Ferrería. Como no va a llover, no podréis aprovechar la ventaja de ir sin paraguas por debajo de los soportales, pero sí que podréis tomaros una buena caña a nuestra salud en los bares que llenan esas calles.
 - **Salinas**: es el pueblo y la playa donde haremos el convite. Tiene el museo de las anclas a un lado y un paseo bonito.
 - **Ría de Avilés**: si tu objetivo en la vida es hacerte con todos, aquí se cazan buenos Dragonites. Tiene una escultura en la que un tal Carlos hizo cosas.
 
