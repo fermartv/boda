@@ -3,7 +3,7 @@ draft: false
 title: "Guía de viaje"
 ---
 
-### Cómo llegar el día de la boda
+### Cómo llegar al evento
 
 Nosotros os **recomendamos que aprovechéis el servicio de autobuses**. Si estás en Oviedo, te acercaremos a Avilés para la ceremonia. Tras esta, también se facilitará transporte al restaurante para todos los invitados que lo soliciten. Para asegurarte de tener plaza, por favor confirma tu asistencia.
 
