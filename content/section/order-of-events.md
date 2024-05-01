@@ -5,18 +5,23 @@ title: "Plan del finde"
 
 ## Preboda
 
+<br>
+
+Hora y lugar pendiente de confirmar.
+
+<br>
 
 ## El día de la boda
 
-### TBD - Autobús desde Oviedo
+### Autobús desde Oviedo
 
-El autobús para en **TBD** para recoger a todos los invitados.
+Pondremos un autobús desde Oviedo. Hora y lugar de recogida pendientes de confirmar.
 
 ### 13:30 - Ceremonia
 
 Breve ceremonia en **Iglesia de Santo Tomás de Canterbury**.
 
-### TBD - Autobús hasta el restaurante
+### Autobús hasta el restaurante
 
 El autobús recogerá a todos los invitados que lo deseen en la puerta de la iglesia.
 
@@ -26,9 +31,9 @@ Tanto el cóctel, comida y baile serán en el **Real Balneario de Salinas**.
 
 Para los más hambrientos, a lo largo de la noche se servirá la cena.
 
-### TBD - Autobús de vuelta
+### Autobús de vuelta
 
-Habrá autobuses de vuelta tanto a Avilés como a Oviedo para todos los que lo deseen.
+Habrá autobuses de vuelta tanto a Avilés como a Oviedo para todos los que lo deseen. Hora pendiente de confirmar.
 
 ### ¿Sigue la fiesta?
 
