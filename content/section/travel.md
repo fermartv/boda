@@ -7,10 +7,6 @@ title: "Guía de viaje"
 
 Nosotros os **recomendamos que aprovechéis el servicio de autobuses**. Si estás en Oviedo, te acercaremos a Avilés para la ceremonia. Tras esta, también se facilitará transporte al restaurante para todos los invitados que lo soliciten. Para asegurarte de tener plaza, por favor confirma tu asistencia.
 
-<section class="button-container">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScq2pP8ATJLhpKHwHeiGDF7o2PFuoBEDatHrdL6Gm-oMKghQQ/viewform" target="_blank" class="button">Confirmar asistencia</a>
-</section>
-
 <br>
 
 Otra opción es ir en coche, aunque el estacionamiento es limitado tanto en la zona de la Iglesia (hay zona azul), como en la del restaurante. También puedes ir en taxi, bici o monopatín. Consulta todas las opciones [aquí](/travel-wedding).

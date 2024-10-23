@@ -41,12 +41,6 @@ El precio de Avilés a Salinas es de unos 10€ a 13€, dependiendo de la hora.
 
 Pondremos un autobús desde Oviedo y otro desde Avilés que te llevarán hasta la iglesia y el restaurante. Así te despreocupas y vas más tranquila.
 
-<br>
-
-Confirma asistencia para reservar plaza en el autobús.
-        <section class="button-container">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLScq2pP8ATJLhpKHwHeiGDF7o2PFuoBEDatHrdL6Gm-oMKghQQ/viewform" target="_blank" class="button">Confirmar asistencia</a>
-        </section>
 
 
 <br>
@@ -92,10 +86,3 @@ Le prix d'Avilés à Salinas est d'environ 10€ à 13€, selon l'heure.
 ### En autobus
 
 Nous mettrons en place un bus depuis Oviedo et un autre depuis Avilés qui vous emmèneront à l'église et au restaurant. Ainsi, vous n'avez pas à vous soucier et pouvez vous détendre davantage.
-
-<br>
-
-Confirmez votre présence pour réserver une place dans le bus.
-        <section class="button-container">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLScq2pP8ATJLhpKHwHeiGDF7o2PFuoBEDatHrdL6Gm-oMKghQQ/viewform" target="_blank" class="button">Confirmer la présence</a>
-        </section>

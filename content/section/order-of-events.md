@@ -1,21 +1,23 @@
 ---
 draft: false
-title: "Plan del finde"
+title: "Plan del día"
 ---
 
-<!-- ## Preboda
+### Autobús desde Oviedo a Avilés
 
-<br>
+El autobús hará tres paradas en Oviedo:
 
-Hora y lugar pendiente de confirmar.
-
-<br> -->
-
-## El día de la boda
-
-### Autobús desde Oviedo
-
-Pondremos un autobús desde Oviedo. Hora y lugar de recogida pendientes de confirmar.
+<ul style="margin-left: 60px;">
+   <li>
+      <strong>12:25 - Calle Muñoz Degrain 46 </strong> <span style="font-size: 0.8em; color: gray;">(<a href="https://maps.app.goo.gl/dmdQHwfMowj2Fy6T6" style="color: gray;">Ver en mapa</a>)</span><br>
+   </li>
+   <li>
+      <strong>12:35 - Calle Santiago de compostela 13</strong> <span style="font-size: 0.8em; color: gray;">(<a href="https://maps.app.goo.gl/oWNSKAa1HncaMoQc7" style="color: gray;">Ver en mapa</a>)</span><br>
+   </li>
+   <li>
+      <strong>12:45 - Los Prados - Avenida de Atenas (parada de bus)</strong> <span style="font-size: 0.8em; color: gray;">(<a href="https://maps.app.goo.gl/ooXheFmXNtRJtxnz8" style="color: gray;">Ver en mapa</a>)</span><br>
+   </li>
+</ul>
 
 ### 13:30 - Ceremonia
 
@@ -31,9 +33,9 @@ Tanto el cóctel, comida y baile serán en el **Real Balneario de Salinas**.
 
 Para los más hambrientos, a lo largo de la noche se servirá la cena.
 
-### Autobús de vuelta
+### 2:00 - Autobús de vuelta
 
-Habrá autobuses de vuelta tanto a Avilés como a Oviedo para todos los que lo deseen. Hora pendiente de confirmar.
+Habrá autobuses de vuelta tanto a Avilés como a Oviedo.
 
 ### ¿Sigue la fiesta?
 
