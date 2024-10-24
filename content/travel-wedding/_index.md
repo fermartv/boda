@@ -7,9 +7,9 @@ En [français](#français)
 
 # El día de la boda
 
-### Iglesia de Santo Tomás de Canterbury
+### Iglesia de Santo Tomás de Cantorbery
 
-Iglesia de Santo Tomás de Canterbury
+Iglesia de Santo Tomás de Cantorbery
 
 33401 Avilés, Asturias
 
@@ -41,8 +41,6 @@ El precio de Avilés a Salinas es de unos 10€ a 13€, dependiendo de la hora.
 
 Pondremos un autobús desde Oviedo y otro desde Avilés que te llevarán hasta la iglesia y el restaurante. Así te despreocupas y vas más tranquila.
 
-
-
 <br>
 
 <br>
@@ -53,9 +51,9 @@ Pondremos un autobús desde Oviedo y otro desde Avilés que te llevarán hasta l
 
 # Le jour du mariage - maintenant en français {#français}
 
-### Église de Santo Tomás de Canterbury
+### Église de Santo Tomás de Cantorbery
 
-Église de de Santo Tomás de Canterbury
+Église de de Santo Tomás de Cantorbery
 
 33401 Avilés, Asturies
 

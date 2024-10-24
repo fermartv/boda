@@ -21,7 +21,7 @@ El autobús hará tres paradas en Oviedo:
 
 ### 13:30 - Ceremonia
 
-Breve ceremonia en **Iglesia de Santo Tomás de Canterbury**.
+Breve ceremonia en **Iglesia de Santo Tomás de Cantorbery**.
 
 ### Autobús hasta el restaurante
 
