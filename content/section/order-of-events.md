@@ -9,10 +9,10 @@ El autobús hará tres paradas en Oviedo:
 
 <ul style="margin-left: 60px;">
    <li>
-      <strong>12:25 - Calle Muñoz Degrain 46 </strong> <span style="font-size: 0.8em; color: gray;">(<a href="https://maps.app.goo.gl/dmdQHwfMowj2Fy6T6" style="color: gray;">Ver en mapa</a>)</span><br>
+      <strong>12:25 - Calle Muñoz Degraín 46 </strong> <span style="font-size: 0.8em; color: gray;">(<a href="https://maps.app.goo.gl/dmdQHwfMowj2Fy6T6" style="color: gray;">Ver en mapa</a>)</span><br>
    </li>
    <li>
-      <strong>12:35 - Calle Santiago de compostela 13</strong> <span style="font-size: 0.8em; color: gray;">(<a href="https://maps.app.goo.gl/oWNSKAa1HncaMoQc7" style="color: gray;">Ver en mapa</a>)</span><br>
+      <strong>12:35 - Calle Santiago de Compostela 13</strong> <span style="font-size: 0.8em; color: gray;">(<a href="https://maps.app.goo.gl/oWNSKAa1HncaMoQc7" style="color: gray;">Ver en mapa</a>)</span><br>
    </li>
    <li>
       <strong>12:45 - Los Prados - Avenida de Atenas (parada de bus)</strong> <span style="font-size: 0.8em; color: gray;">(<a href="https://maps.app.goo.gl/ooXheFmXNtRJtxnz8" style="color: gray;">Ver en mapa</a>)</span><br>
